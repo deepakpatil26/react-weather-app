@@ -2,7 +2,7 @@
 
 A modern, responsive weather application built with React that provides real-time weather information with a clean and intuitive interface.
 
-![Weather App Demo](/api/placeholder/800/400)
+![Weather App Demo](src/assets/weather-app.png)
 
 ## ✨ Features
 
