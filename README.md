@@ -14,9 +14,13 @@ A modern, responsive weather application built with React that provides real-tim
 - Beautiful weather animations
 - Unit conversion (Celsius/Fahrenheit)
 
-## 🚀 Live Demo
+## 🌐 Live Preview
 
-Check out the live demo: [Weather App](https://your-weather-app-url.com)
+<div align="center">
+  
+### 🚀 [Experience the App](https://react-weather-app-jet-three.vercel.app/)
+  
+</div>
 
 ## 🛠️ Technologies Used
 
