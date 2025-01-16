@@ -2,6 +2,14 @@
 
 A modern, responsive weather application built with React that provides real-time weather information with a clean and intuitive interface.
 
+## 🌐 Live Preview
+
+<div align="center">
+  
+### 🚀 [Experience the App](https://react-weather-o0l42ks0b-deepakpatil26s-projects.vercel.app/)
+  
+</div>
+
 ![Weather App Demo](src/assets/weather-app.png)
 
 ## ✨ Features
@@ -14,13 +22,6 @@ A modern, responsive weather application built with React that provides real-tim
 - Beautiful weather animations
 - Unit conversion (Celsius/Fahrenheit)
 
-## 🌐 Live Preview
-
-<div align="center">
-  
-### 🚀 [Experience the App](https://react-weather-o0l42ks0b-deepakpatil26s-projects.vercel.app/)
-  
-</div>
 
 ## 🛠️ Technologies Used
 
