@@ -4,11 +4,11 @@ A modern, responsive weather application built with React that provides real-tim
 
 ## 🌐 Live Preview
 
-<div align="center">
-  
-### 🚀 [Experience the App](https://react-weather-o0l42ks0b-deepakpatil26s-projects.vercel.app/)
-  
-</div>
+<p align="center">
+
+### 🚀 [Experience the App](https://react-weather-app-jet-three.vercel.app/)
+
+</p>
 
 ![Weather App Demo](src/assets/weather-app.png)
 
@@ -21,7 +21,6 @@ A modern, responsive weather application built with React that provides real-tim
 - Responsive design for all devices
 - Beautiful weather animations
 - Unit conversion (Celsius/Fahrenheit)
-
 
 ## 🛠️ Technologies Used
 
@@ -37,26 +36,31 @@ A modern, responsive weather application built with React that provides real-tim
 ## ⚙️ Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/deepakpatil26/weather-app.git
 ```
 
 2. Navigate to the project directory:
+
 ```bash
 cd weather-app
 ```
 
 3. Install dependencies:
+
 ```bash
 npm install
 ```
 
 4. Create a `.env` file in the root directory and add your OpenWeather API key:
+
 ```env
 REACT_APP_WEATHER_API_KEY=your_api_key_here
 ```
 
 5. Start the development server:
+
 ```bash
 npm start
 ```
@@ -65,7 +69,7 @@ The app will be available at `http://localhost:3000`
 
 ## 📁 Project Structure
 
-```
+```jsx
 weather-app/
 ├── src/
 │    |── components/
@@ -81,17 +85,20 @@ weather-app/
 ## 🎯 Core Features Explained
 
 ### Current Weather Display
+
 - Shows current temperature, weather condition, and location
 - Displays additional metrics like humidity, wind speed, sunrise and sunset
 - Dynamic weather icons based on current conditions
 
 ### 5-Day Forecast
+
 - Daily temperature highs and lows
 - Weather condition icons
 - Precipitation probability
 - Wind speed and direction
 
 ### Location Services
+
 - Automatic location detection (with user permission)
 - City search functionality with autocomplete
 - Recent searches history
@@ -119,5 +126,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## 📧 Contact
 
 For any questions or feedback, please reach out to:
-- Email: deepakpatil2612@gmail.com
+
+- Email: <deepakpatil2612@gmail.com>
 - GitHub: [deepakpatil26](https://github.com/deepakpatil26)
